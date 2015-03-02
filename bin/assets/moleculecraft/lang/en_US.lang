@@ -1,0 +1,17 @@
+item.moleculecraft:Module.name=Module
+item.moleculecraft:SmeltingModule.name=Smelting module
+item.moleculecraft:CompressionModule.name=Compression module
+item.moleculecraft:CondenserModule.name=CondenserModule
+
+
+
+
+
+tile.moleculecraft:Flag.name=Flag
+tile.moleculecraft:Compressor.name=Compressor
+
+
+
+
+
+itemGroup.moleculecraft=molecule Tab
